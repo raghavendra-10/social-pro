@@ -1,0 +1,31 @@
+
+{
+    "name": "Benjamin Tims",
+    "bio": "Web Developer",
+    "email": "benjamin.tims@example.com",
+    "avatar": "https://i.imgur.com/JgYD2nQ.jpg",
+    "coverPhoto": "https://i.imgur.com/Qtrsrk5.jpg",
+    "location": "Los Angeles",
+    "followers": 8797,
+    "projects": 142,
+    "ranks": 129,
+    "posts": [
+      {
+        "title": "Post 1",
+        "description": "This is the first post."
+      },
+      {
+        "title": "Post 2",
+        "description": "This is the second post."
+      },
+      {
+        "title": "Post 3",
+        "description": "This is the third post."
+      },
+      {
+        "title": "Post 4",
+        "description": "This is the fourth post."
+      }
+    ]
+  }
+  
