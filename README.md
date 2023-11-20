@@ -1,6 +1,7 @@
 # React Profile App
 
 This is a simple React app that displays a user profile card with information and posts.
+## Project deployed link : https://social-pro-lemon.vercel.app
 
 ## Getting Started
 
