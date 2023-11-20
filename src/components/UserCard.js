@@ -2,7 +2,7 @@
 import React from 'react';
 
 const UserCard = () => {
-  const data = require('./profileData.json');
+  const data = require('../json/profileData.json');
 
   return (
     <div className="container d-flex justify-content-center align-items-center">
