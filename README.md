@@ -14,13 +14,13 @@ This is a simple React app that displays a user profile card with information an
 
    ```bash
    git clone https://github.com/your-username/react-profile-app.git
-Navigate to the project directory:
+2. Navigate to the project directory:
    cd react-profile-app
-Install dependencies:
+3. Install dependencies:
    npm install
-Running the App
-Run the development server: npm start
-The app will be available at http://localhost:3000/.
+### Running the App
+1. Run the development server: npm start
+2. The app will be available at http://localhost:3000/.
 
 ### Project Structure
 
