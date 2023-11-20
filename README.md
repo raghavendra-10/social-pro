@@ -22,16 +22,24 @@ Running the App
 Run the development server: npm start
 The app will be available at http://localhost:3000/.
 
-Project Structure
-src/components: Contains React components.
-profile.js: the UserCard.js is wrapped in this component
-UserCard.js: it is the main component where json data is imported used bootstrap and css for styling
+###Project Structure
+
+1.src/components: Contains React components.
+
+2.profile.js: the UserCard.js is wrapped in this component
+
+3.UserCard.js: it is the main component where json data is imported used bootstrap and css for styling
              used map function to map all the posts data in the json data.
-Profile.css: contains all the css code. it is linked to the profile.js.
-src/json/profileData.json: JSON file with profile and post data.
+             
+4.Profile.css: contains all the css code. it is linked to the profile.js.
+
+5.src/json/profileData.json: JSON file with profile and post data.
+
 public: Public assets, including images.
-Customization
+
+###Customization
 Update profileData.json to change profile and post data.
 Modify CSS files (Profile.css, UserCard.css) for styling.
-Contributing
+
+###Contributing
 Feel free to contribute to the project by opening issues or creating pull requests.
