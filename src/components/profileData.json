@@ -1,31 +1,38 @@
 
 {
-    "name": "Benjamin Tims",
-    "bio": "Web Developer",
-    "email": "benjamin.tims@example.com",
-    "avatar": "https://i.imgur.com/JgYD2nQ.jpg",
-    "coverPhoto": "https://i.imgur.com/Qtrsrk5.jpg",
-    "location": "Los Angeles",
-    "followers": 8797,
-    "projects": 142,
-    "ranks": 129,
-    "posts": [
-      {
-        "title": "Post 1",
-        "description": "This is the first post."
-      },
-      {
-        "title": "Post 2",
-        "description": "This is the second post."
-      },
-      {
-        "title": "Post 3",
-        "description": "This is the third post."
-      },
-      {
-        "title": "Post 4",
-        "description": "This is the fourth post."
-      }
-    ]
-  }
-  
+  "name": "Ganesh",
+  "bio": "Web Developer",
+  "email": "benjamin.tims@example.com",
+  "avatar": "https://images.unsplash.com/photo-1628563694622-5a76957fd09c?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5zdGFncmFtJTIwcHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D",
+  "coverPhoto": "https://i.imgur.com/Qtrsrk5.jpg",
+  "location": "Andhra Pradesh",
+  "followers": 8797,
+  "projects": 142,
+  "Posts": 6,
+  "posts": [
+    {
+      "title": "My Coding Journey",
+      "description": "Excited to start my coding journey! 🚀 #coding #webdevelopment"
+    },
+    {
+      "title": "Favorite JavaScript Frameworks",
+      "description": "Currently exploring React, Vue, and Angular. What's your favorite JavaScript framework?"
+    },
+    {
+      "title": "Tech Conference Recap",
+      "description": "Had a great time at the tech conference. Learned a lot and met amazing people! #techconference"
+    },
+    {
+      "title": "Web Design Tips",
+      "description": "Sharing some web design tips and tricks. Check out my latest blog post!"
+    },
+    {
+      "title": "Open Source Contributions",
+      "description": "Contributed to some open source projects this week. Feeling proud! #opensource"
+    },
+    {
+      "title": "Learning GraphQL",
+      "description": "Diving into GraphQL. Any tips for getting started? #graphql #webdev"
+    }
+  ]
+}

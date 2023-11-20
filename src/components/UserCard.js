@@ -21,7 +21,7 @@ const UserCard = () => {
           </div>
         </div>
         <div className="mt-5 text-center">
-          <h4 className="mb-0">{data.name}</h4>
+          <h4 className="mt-2">{data.name}</h4>
           <span className="text-muted d-block mb-2">{data.location}</span>
           <button className="btn btn-primary btn-sm follow">Follow</button>
           <div className="d-flex justify-content-between align-items-center mt-4 px-4">
@@ -34,8 +34,8 @@ const UserCard = () => {
               <span>{data.projects}</span>
             </div>
             <div className="stats">
-              <h6 className="mb-0">Ranks</h6>
-              <span>{data.ranks}</span>
+              <h6 className="mb-0">Posts</h6>
+              <span>{data.Posts}</span>
             </div>
           </div>
         </div>
